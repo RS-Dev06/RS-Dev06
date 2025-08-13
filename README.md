@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RS-Dev06/RS-Dev06/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RS-Dev06/RS-Dev06/refs/heads/main/ouput/snake.svg" alt="Snake animation" />
 
 ###
