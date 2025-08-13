@@ -1,15 +1,16 @@
-<h2 align="left">Hi 👋! My name is Raheim and I'm a Software Engineer and Hobbyist Hacker that spends way too much time on automation :D</h2>
+<h2 align="left">Hi 👋! My name is Raheim and I'm a Software Engineer and Hobbyist Hacker that spends way too much time on automation :D <br><br>
+  I also like reverse engineering, embedded programming, and spending an ungoldy amount of time on personal projects that I throw away D:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RS-Dev06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RS-Dev06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-nine-livid-77.vercel.app/api?username=RS-Dev06&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&combine_all_yearly_contributions=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-nine-livid-77.vercel.app/api/top-langs?username=RS-Dev06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/c4/96/84/c49684714b47e7985f69c318a49dcc6b.gif"  />
+<img align="left" height="150" src="https://raw.githubusercontent.com/RS-Dev06/RS-Dev06/refs/heads/main/ouput/mygif.gif"/>
 
 ###
 
