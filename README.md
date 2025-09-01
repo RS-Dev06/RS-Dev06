@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Raheim and I'm a Software Engineer and Hobbyist Hacker that spends way too much time on automation :D <br><br>
-  I also like reverse engineering, embedded programming, and spending an ungoldy amount of time on personal projects that I throw away D:</h2>
+<h2 align="left">Hi 👋! I'm Raheim, Software Engineer and Hobbyist Hacker that spends way too much time on automation :D <br><br>
+  I like reverse engineering, embedded programming, and spending an ungoldy amount of time on personal projects that I throw away D:</h2>
 
 ###
 
